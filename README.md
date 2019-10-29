@@ -14,7 +14,7 @@
 ```
 {
 	"url": "https://www.tracy.com",          // 将被转换的长地址
-	"expiration_in_minutes": 1    // 设置过期时间（单位分钟）
+	"expiration_in_minutes": 10    // 设置过期时间（单位分钟）
 }
 ```
 响应
