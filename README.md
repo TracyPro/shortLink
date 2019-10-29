@@ -27,7 +27,7 @@
 	"expiration_in_minutes":10
 }
 ```
-- GET /:shortlink 重定向到长地址
+- GET /:shortlink 重定向到长地址（return 302 code）
 ```
 例如：请求GET /Aflb1
 结果：重定向到https://www.tracy.com
