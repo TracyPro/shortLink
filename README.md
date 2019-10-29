@@ -17,6 +17,12 @@
 	"expiration_in_minutes": 1    // 设置过期时间（单位分钟）
 }
 ```
+响应
+```
+{
+	"shortlink": "Aflb1"
+}
+```
 - GET /api/info?shortlink=shortlink 获取短地址详细信息
 ```
 例如：GET /api/info?shortlink=Aflb1
