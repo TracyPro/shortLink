@@ -4,7 +4,7 @@
 将长地址缩短到一个很短的地址，用户访问这个短地址可以重定向到原本的长地址。
 ```
 ## 开发运用知识点
-- HTTP Router和Handle设计
+- HTTP Router和Handler设计
 - HTTP处理流程中的Middleware设计
 - 利用Golang接口实现可扩展设计
 - 利用Redis自增长序列生成短地址
